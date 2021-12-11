@@ -1,5 +1,6 @@
 {
   "name": "24/7",
+  "node-version": "17.2.0",
   "version": "1.0.0",
   "description": "24/7 Worker",
   "main": "index.js",
